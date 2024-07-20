@@ -1,0 +1,3 @@
+Install Modules - Matplotlib-graph & Panda - categorised and search data
+Command to Install Matplotlib - pip install matplotlib
+Command to instll Pandas - pip install pandas
